@@ -7,7 +7,7 @@
   },
   "servers":[
     {
-      "url": "https://api.tai.fake"
+      "url": "https://raw.githubusercontent.com/TAISEICREATIVE/tai-chat-actions/main"
     }
   ],
   "paths": {
