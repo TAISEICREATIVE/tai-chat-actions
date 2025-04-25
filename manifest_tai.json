@@ -1,0 +1,17 @@
+{
+  "name_for_human": "Tai - Estratega de Marketing",
+  "name_for_model": "tai_marketing_assistant",
+  "description_for_human": "Asistente que ayuda a planificar, optimizar e innovar estrategias de marketing y creaci\u00f3n de contenido.",
+  "description_for_model": "Asistente de estrategias de marketing que consulta campa\u00f1as, automatiza tareas, analiza SEO, genera documentos, sugiere tendencias y optimiza anuncios.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://raw.githubusercontent.com/TAISEICREATIVE/tai-chat-actions/main/tai_openapi.json",
+    "is_user_authenticated": false
+  },
+  "logo_url": "",
+  "contact_email": "taiseicreative@gmail.com",
+  "legal_info_url": ""
+}
