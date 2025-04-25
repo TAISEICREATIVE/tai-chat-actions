@@ -8,7 +8,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://raw.githubusercontent.com/TAISEICREATIVE/tai-chat-actions/main/tai_openapi.json?v=2",
+    "url": "https://raw.githubusercontent.com/TAISEICREATIVE/tai-chat-actions/main/tai_openapi.json",
     "is_user_authenticated": false
   },
   "logo_url": "",
