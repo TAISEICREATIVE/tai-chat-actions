@@ -4,8 +4,8 @@
     "title": "Tai - Asistente de Estrategias de Marketing",
     "version": "1.0.0",
     "description": "API para consultar campa\u00f1as, automatizar tareas, analizar SEO, generar documentos, consultar tendencias, optimizar campa\u00f1as de ads y acceder a plantillas de marketing."
- },
-  "servers": [
+  },
+  "servers":[
     {
       "url": "https://api.tai.fake"
     }
